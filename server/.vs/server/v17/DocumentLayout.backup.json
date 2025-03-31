@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B72AE6-B6C6-4873-B9FF-0010B4170BC6}|server\\server.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\server\\n_over_echo_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1B72AE6-B6C6-4873-B9FF-0010B4170BC6}|server\\server.vcxproj|solutionrelative:server\\n_over_echo_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B72AE6-B6C6-4873-B9FF-0010B4170BC6}|server\\server.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1B72AE6-B6C6-4873-B9FF-0010B4170BC6}|server\\server.vcxproj|solutionrelative:server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "n_over_echo_server.cpp",
+              "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\server\\n_over_echo_server.cpp",
+              "RelativeDocumentMoniker": "server\\n_over_echo_server.cpp",
+              "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\server\\n_over_echo_server.cpp",
+              "RelativeToolTip": "server\\n_over_echo_server.cpp",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv3UAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T12:23:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server\\server.cpp",
+              "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\server\\server\\server.cpp",
+              "RelativeToolTip": "server\\server.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T12:10:18.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
