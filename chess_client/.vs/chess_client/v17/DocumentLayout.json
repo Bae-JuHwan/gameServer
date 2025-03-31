@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C806970D-01E0-4AD7-9122-9801859B2F32}|chess_client\\chess_client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\chess_client\\over_echo_chess_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C806970D-01E0-4AD7-9122-9801859B2F32}|chess_client\\chess_client.vcxproj|solutionrelative:chess_client\\over_echo_chess_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C806970D-01E0-4AD7-9122-9801859B2F32}|chess_client\\chess_client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\chess_client\\chess_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C806970D-01E0-4AD7-9122-9801859B2F32}|chess_client\\chess_client.vcxproj|solutionrelative:chess_client\\chess_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "over_echo_chess_client.cpp",
+              "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\chess_client\\over_echo_chess_client.cpp",
+              "RelativeDocumentMoniker": "chess_client\\over_echo_chess_client.cpp",
+              "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\chess_client\\over_echo_chess_client.cpp",
+              "RelativeToolTip": "chess_client\\over_echo_chess_client.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T12:08:33.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "chess_client.cpp",
               "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\chess_client\\chess_client.cpp",
               "RelativeDocumentMoniker": "chess_client\\chess_client.cpp",
               "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\chess_client\\chess_client\\chess_client.cpp",
               "RelativeToolTip": "chess_client\\chess_client.cpp",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAowK4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T12:26:11.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:26:11.569Z"
             }
           ]
         }

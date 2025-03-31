@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "over_echo_client.cpp",
               "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp",
               "RelativeDocumentMoniker": "client\\over_echo_client.cpp",
               "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp",
               "RelativeToolTip": "client\\over_echo_client.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T12:22:52.913Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "client.cpp",
               "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp",
               "RelativeDocumentMoniker": "client\\client.cpp",
               "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp",
               "RelativeToolTip": "client\\client.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-24T12:09:12.814Z",
               "EditorCaption": ""

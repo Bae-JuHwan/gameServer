@@ -22,6 +22,7 @@ void print_error_message(int s_err)
 	while (true);   // µð¹ö±ë ¿ë
 	LocalFree(lpMsgBuf);
 }
+
 class SESSION {
 private:
 	SOCKET			_c_socket;

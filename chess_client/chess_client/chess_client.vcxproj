@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="chess_client.cpp" />
+    <ClCompile Include="chess_client.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="over_echo_chess_client.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
