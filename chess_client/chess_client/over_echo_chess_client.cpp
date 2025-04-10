@@ -6,8 +6,6 @@
 
 #pragma comment(lib, "ws2_32.lib")
 
-using namespace std;
-
 HINSTANCE g_hInst;
 LPCTSTR lpszClass = L"chessclient";
 LPCTSTR lpszWindowName = L"Chess Client";

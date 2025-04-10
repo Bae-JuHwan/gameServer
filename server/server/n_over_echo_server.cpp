@@ -26,7 +26,7 @@ void print_error_message(int s_err)
 class SESSION {
 private:
 	SOCKET			_c_socket;
-	long long				_id;
+	long long		_id;
 
 	WSAOVERLAPPED	_recv_over;
 	char			_recv_buffer[1024];

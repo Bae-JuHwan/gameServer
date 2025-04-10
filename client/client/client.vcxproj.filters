@@ -24,5 +24,11 @@
     <ClCompile Include="over_echo_client.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="iocp_client.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameClient.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

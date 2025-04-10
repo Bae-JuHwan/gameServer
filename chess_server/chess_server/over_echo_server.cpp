@@ -5,8 +5,6 @@
 
 #pragma comment(lib, "ws2_32.lib")
 
-using namespace std;
-
 #define PORT 3000
 #define MAX_CLIENTS 10
 
@@ -45,14 +43,14 @@ DWORD WINAPI WorkerThread(LPVOID lpParam) {
         ClientInfo* client = (ClientInfo*)completionKey;
 
         if (bytesTransferred == 0) {
-            cout << "클라이언트 연결 종료: ID " << client->clientID << endl;
+            std::cout << "클라이언트 연결 종료: ID " << client->clientID << std::endl;
             closesocket(client->socket);
             delete client;
             continue;
         }
 
         int keyCode = *(int*)client->buffer;
-        cout << "클라이언트 " << client->clientID << "로부터 받은 키: " << keyCode << endl;
+        std::cout << "클라이언트 " << client->clientID << "로부터 받은 키: " << keyCode << std::endl;
 
         updatePiecePosition(client, keyCode);
 
@@ -73,7 +71,7 @@ int main() {
 
     SOCKET serverSocket = WSASocket(AF_INET, SOCK_STREAM, 0, NULL, 0, WSA_FLAG_OVERLAPPED);
     if (serverSocket == INVALID_SOCKET) {
-        cout << "소켓 생성 실패" << endl;
+        std::cout << "소켓 생성 실패" << std::endl;
         return 1;
     }
 
@@ -83,19 +81,19 @@ int main() {
     serverAddr.sin_addr.s_addr = INADDR_ANY;
 
     if (bind(serverSocket, (sockaddr*)&serverAddr, sizeof(serverAddr)) == SOCKET_ERROR) {
-        cout << "바인드 실패" << endl;
+        std::cout << "바인드 실패" << std::endl;
         return 1;
     }
 
     if (listen(serverSocket, SOMAXCONN) == SOCKET_ERROR) {
-        cout << "리스닝 실패" << endl;
+        std::cout << "리스닝 실패" << std::endl;
         return 1;
     }
 
     completionPort = CreateIoCompletionPort(INVALID_HANDLE_VALUE, NULL, 0, 0);
     CreateThread(NULL, 0, WorkerThread, NULL, 0, NULL);
 
-    cout << "서버가 3000번 포트에서 대기 중입니다..." << endl;
+    std::cout << "서버가 3000번 포트에서 대기 중입니다..." << std::endl;
 
     int clientCount = 0;
 
@@ -136,13 +134,13 @@ int main() {
         );
 
         if (recvResult == SOCKET_ERROR && WSAGetLastError() != WSA_IO_PENDING) {
-            cout << "WSARecv 실패: " << WSAGetLastError() << endl;
+            std::cout << "WSARecv 실패: " << WSAGetLastError() << std::endl;
             closesocket(client->socket);
             delete client;
             continue;
         }
 
-        cout << "클라이언트 연결 성공: ID " << client->clientID << endl;
+        std::cout << "클라이언트 연결 성공: ID " << client->clientID << std::endl;
     }
 
     closesocket(serverSocket);

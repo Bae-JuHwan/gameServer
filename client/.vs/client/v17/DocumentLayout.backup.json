@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\",
+  "WorkspaceRootPath": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\iocp_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\iocp_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\gameClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\gameClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\over_echo_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E9779D8-F93A-422E-976C-219FA4111C6B}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,43 +33,71 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "gameClient.cpp",
+              "DocumentMoniker": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\gameClient.cpp",
+              "RelativeDocumentMoniker": "client\\gameClient.cpp",
+              "ToolTip": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\gameClient.cpp",
+              "RelativeToolTip": "client\\gameClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T04:59:17.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "iocp_client.cpp",
+              "DocumentMoniker": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\iocp_client.cpp",
+              "RelativeDocumentMoniker": "client\\iocp_client.cpp",
+              "ToolTip": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\iocp_client.cpp",
+              "RelativeToolTip": "client\\iocp_client.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T06:16:10.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "over_echo_client.cpp",
-              "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp",
+              "DocumentMoniker": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\over_echo_client.cpp",
               "RelativeDocumentMoniker": "client\\over_echo_client.cpp",
-              "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\over_echo_client.cpp",
+              "ToolTip": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\over_echo_client.cpp",
               "RelativeToolTip": "client\\over_echo_client.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T12:22:52.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "client2.cpp",
-              "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client2.cpp",
+              "DocumentMoniker": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\client2.cpp",
               "RelativeDocumentMoniker": "client\\client2.cpp",
-              "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client2.cpp",
+              "ToolTip": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\client2.cpp",
               "RelativeToolTip": "client\\client2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-24T12:09:23.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T12:09:23.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "client.cpp",
-              "DocumentMoniker": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp",
+              "DocumentMoniker": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\client.cpp",
               "RelativeDocumentMoniker": "client\\client.cpp",
-              "ToolTip": "C:\\Users\\0412j\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game_server\\client\\client\\client.cpp",
+              "ToolTip": "C:\\Users\\juhwan\\OneDrive\\Desktop\\game_server\\gameServer\\client\\client\\client.cpp",
               "RelativeToolTip": "client\\client.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-24T12:09:12.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T12:09:12.814Z"
             }
           ]
         }
